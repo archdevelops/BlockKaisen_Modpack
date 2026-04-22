@@ -1,1 +1,0 @@
-BlockKaisen Modpack intended for the blockkaisen Minecraft server.
